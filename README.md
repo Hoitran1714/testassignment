@@ -1,7 +1,9 @@
 # GIỚI THIỆU HÀM CALCULATE TRONG POWER BI
 ## 1. Hàm calculate là gì?
 CALCULATE là 1 trong những hàm thông dụng và quan trọng nhất trong Power BI, cho phép người dùng tính toán những metric cần thiết. Khác với việc chỉ sử dụng những hàm tính toán thông thường, việc sử dụng hàm CALCULATE cho phép người dùng đặt bộ lọc ngay trong biểu thức tính toán.
-Trong thực tế, có thể ứng dụng hàm CALCULATE để tính toán metric 
+Trong thực tế, có thể ứng dụng hàm CALCULATE để trả lời các bài toán như 
+* Tính tổng danh thu trong thời gian nhất định.
+* Tính doanh thu của chỉ riêng 1 loại sản phẩm nhất định.
 ## 2. Cấu trúc của hàm calculate.
 Hàm CALCULATE có cấu trúc như sau:
 
